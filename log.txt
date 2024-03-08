@@ -1,0 +1,27 @@
+
+===========================================================================================
+===============================CMAKE BUILD START===========================================
+===========================================================================================
+-- Build spdlog: 1.13.0
+-- Build type: Release
+-- Using the multi-header code from C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/json/include/
+-- Configuring done (0.4s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build
+===========================================================================================
+=====================================MinGW MAKE START======================================
+===========================================================================================
+mingw32-make: Entering directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+mingw32-make[1]: Entering directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+mingw32-make[2]: Entering directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+mingw32-make[2]: Leaving directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+[ 72%] Built target spdlog
+mingw32-make[2]: Entering directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+mingw32-make[2]: Leaving directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+mingw32-make[2]: Entering directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+[ 81%] Building CXX object CMakeFiles/helloworld.dir/src/main.cpp.obj
+[ 90%] Linking CXX executable helloworld.exe
+mingw32-make[2]: Leaving directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+[100%] Built target helloworld
+mingw32-make[1]: Leaving directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'
+mingw32-make: Leaving directory 'C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build'

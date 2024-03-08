@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSPDLOG_COMPILED_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/helloworld.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\helloworld.dir\\src\\Calculator.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\src\\Calculator.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/src/Calculator.cpp",
+  "output": "CMakeFiles/helloworld.dir/src/Calculator.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DSPDLOG_COMPILED_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/helloworld.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\helloworld.dir\\src\\main.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\src\\main.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/src/main.cpp",
+  "output": "CMakeFiles/helloworld.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\spdlog.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/spdlog.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\stdout_sinks.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/stdout_sinks.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\color_sinks.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/color_sinks.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\file_sinks.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/file_sinks.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\async.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\async.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/async.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\cfg.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/cfg.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DSPDLOG_COMPILED_LIB @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\bundled_fmtlib_format.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\qtdemo\\cmake-qt\\lib\\spdlog\\src\\bundled_fmtlib_format.cpp",
+  "file": "C:/Users/shoucheng/Desktop/qtdemo/cmake-qt/lib/spdlog/src/bundled_fmtlib_format.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.obj"
+}
+]
